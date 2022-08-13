@@ -1,0 +1,45 @@
+.nav{
+    font-family: raleway;
+    font-size: 25px;
+    position: absolute center;
+    padding-left: 0%;
+    color: blue;
+    margin-top: 20px;
+    margin-right: 90px;
+    background-color: white;
+
+  }
+
+.badge {
+    font-size: 25px;
+    font-weight: 200
+}
+
+.badge i {
+    font-size: 20px;
+    font-weight: 200
+}
+
+.about-rating {
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px
+}
+
+.total-ratings {
+    font-size: 12px
+}
+
+.bg-custom {
+    background-color: #b7dd29 !important
+}
+
+.text-custom {
+    color: #b7dd29 !important
+}
+
+.progress {
+    margin-top: 2px;
+    border-radius: 0px;
+    padding-left: 0px
+}
